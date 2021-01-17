@@ -9,7 +9,7 @@ h = {
     ]
 }
 
-with open('happiness_2019.csv', 'r') as data:
+with open('data/happiness_2019.csv', 'r') as data:
     rows = csv.DictReader(data)
     
     for row in rows:
@@ -20,5 +20,5 @@ with open('happiness_2019.csv', 'r') as data:
         }
         h["datasets"].append(country_data)
 
-with open('happiness_2019.json', 'w') as f:
-    json.dump(h, f)
+with open('data/happiness_2019.json', 'w') as f:
+    json.dump(h, f, indent=4)
