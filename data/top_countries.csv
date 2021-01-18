@@ -1,39 +1,39 @@
 ,country,region,score_2015,score_2016,score_2017,score_2018,score_2019
-1,Argentina,Latin America and Caribbean,6.574,6.65,6.59899997711182,6.388,NA
-2,Australia,Australia and New Zealand,7.284,7.313,7.28399991989136,7.272,7.228
-3,Austria,Western Europe,7.2,7.119,7.00600004196167,7.139,7.246
-4,Belgium,Western Europe,6.937,6.929,6.89099979400635,6.927,6.923
-5,Brazil,Latin America and Caribbean,6.983,6.952,6.63500022888184,6.419,NA
-6,Canada,North America,7.427,7.404,7.31599998474121,7.328,7.278
-7,Chile,Latin America and Caribbean,6.67,6.705,6.65199995040894,6.476,6.444
-8,Costa Rica,Latin America and Caribbean,7.226,7.087,7.0789999961853,7.072,7.167
-9,Czech Republic,NA,NA,6.596,6.60900020599365,6.711,6.852
-10,Denmark,Western Europe,7.527,7.526,7.52199983596802,7.555,7.6
-11,Finland,Western Europe,7.406,7.413,7.4689998626709,7.632,7.769
+1,Argentina,Latin America and Caribbean,6.574,6.65,6.599,6.388,NA
+2,Australia,Australia and New Zealand,7.284,7.313,7.284,7.272,7.228
+3,Austria,Western Europe,7.2,7.119,7.006,7.139,7.246
+4,Belgium,Western Europe,6.937,6.929,6.891,6.927,6.923
+5,Brazil,Latin America and Caribbean,6.983,6.952,6.635,6.419,NA
+6,Canada,North America,7.427,7.404,7.316,7.328,7.278
+7,Chile,Latin America and Caribbean,6.67,6.705,6.652,6.476,6.444
+8,Costa Rica,Latin America and Caribbean,7.226,7.087,7.079,7.072,7.167
+9,Czech Republic,NA,NA,6.596,6.609,6.711,6.852
+10,Denmark,Western Europe,7.527,7.526,7.522,7.555,7.6
+11,Finland,Western Europe,7.406,7.413,7.469,7.632,7.769
 12,France,Western Europe,6.575,NA,NA,6.489,6.592
-13,Germany,Western Europe,6.75,6.994,6.95100021362305,6.965,6.985
-14,Guatemala,NA,NA,NA,6.4539999961853,6.382,6.436
-15,Iceland,Western Europe,7.561,7.501,7.50400018692017,7.495,7.494
-16,Ireland,Western Europe,6.94,6.907,6.97700023651123,6.977,7.021
-17,Israel,Middle East and Northern Africa,7.278,7.267,7.21299982070923,6.814,7.139
-18,Luxembourg,Western Europe,6.946,6.871,6.86299991607666,6.91,7.09
-19,Malta,NA,NA,6.488,6.52699995040894,6.627,6.726
-20,Mexico,Latin America and Caribbean,7.187,6.778,6.57800006866455,6.488,6.595
-21,Netherlands,Western Europe,7.378,7.339,7.3769998550415,7.441,7.488
-22,New Zealand,Australia and New Zealand,7.286,7.334,7.31400012969971,7.324,7.307
-23,Norway,Western Europe,7.522,7.498,7.53700017929077,7.594,7.554
+13,Germany,Western Europe,6.75,6.994,6.951,6.965,6.985
+14,Guatemala,NA,NA,NA,6.454,6.382,6.436
+15,Iceland,Western Europe,7.561,7.501,7.504,7.495,7.494
+16,Ireland,Western Europe,6.94,6.907,6.977,6.977,7.021
+17,Israel,Middle East and Northern Africa,7.278,7.267,7.213,6.814,7.139
+18,Luxembourg,Western Europe,6.946,6.871,6.863,6.91,7.09
+19,Malta,NA,NA,6.488,6.527,6.627,6.726
+20,Mexico,Latin America and Caribbean,7.187,6.778,6.578,6.488,6.595
+21,Netherlands,Western Europe,7.378,7.339,7.377,7.441,7.488
+22,New Zealand,Australia and New Zealand,7.286,7.334,7.314,7.324,7.307
+23,Norway,Western Europe,7.522,7.498,7.537,7.594,7.554
 24,Oman,Middle East and Northern Africa,6.853,NA,NA,NA,NA
-25,Panama,Latin America and Caribbean,6.786,6.701,6.4520001411438,6.43,NA
+25,Panama,Latin America and Caribbean,6.786,6.701,6.452,6.43,NA
 26,Puerto Rico,NA,NA,7.039,NA,NA,NA
 27,Qatar,Middle East and Northern Africa,6.611,NA,NA,NA,6.374
 28,Saudi Arabia,NA,NA,NA,NA,NA,6.375
-29,Singapore,Southeastern Asia,6.798,6.739,6.57200002670288,NA,NA
+29,Singapore,Southeastern Asia,6.798,6.739,6.572,NA,NA
 30,Spain,NA,NA,NA,NA,NA,6.354
-31,Sweden,Western Europe,7.364,7.291,7.28399991989136,7.314,7.343
-32,Switzerland,Western Europe,7.587,7.509,7.49399995803833,7.487,7.48
+31,Sweden,Western Europe,7.364,7.291,7.284,7.314,7.343
+32,Switzerland,Western Europe,7.587,7.509,7.494,7.487,7.48
 33,Taiwan,NA,NA,NA,NA,6.441,6.446
-34,United Arab Emirates,Middle East and Northern Africa,6.901,6.573,6.64799976348877,6.774,6.825
-35,United Kingdom,Western Europe,6.867,6.725,6.71400022506714,7.19,7.054
-36,United States,North America,7.119,7.104,6.99300003051758,6.886,6.892
-37,Uruguay,NA,NA,6.545,6.4539999961853,NA,NA
+34,United Arab Emirates,Middle East and Northern Africa,6.901,6.573,6.648,6.774,6.825
+35,United Kingdom,Western Europe,6.867,6.725,6.714,7.19,7.054
+36,United States,North America,7.119,7.104,6.993,6.886,6.892
+37,Uruguay,NA,NA,6.545,6.454,NA,NA
 38,Venezuela,Latin America and Caribbean,6.81,NA,NA,NA,NA
